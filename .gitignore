@@ -1,0 +1,11 @@
+# .env file
+.env
+
+# virtual environment
+venv/
+
+# python bytecode
+__pycache__/
+
+# vsc settings
+.vscode/
